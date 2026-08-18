@@ -8,21 +8,27 @@ Senior Linux Escalation Engineer at Microsoft Azure with 15+ years of experience
 
 My expertise includes cloud reliability, Linux security, advanced troubleshooting, root-cause analysis, automation, Linux bug triage, technical documentation, and technical mentorship.
 
-I am preparing for advanced engineering roles by growing my skills in software and systems engineering, Secure Linux Systems Development, cloud-to-edge technologies, and applied AI. In the coming months, I will focus on hands-on software development, Linux Kernel and security, and AI engineering with PyTorch and open-weight model.
+I am preparing for advanced engineering roles by growing my skills in software and systems engineering, cloud-to-edge technologies, and applied AI. In the coming months, I will focus on hands-on software development, Linux Kernel and security, and AI engineering with PyTorch and open-weight model.
 
-## Currently Focusing on:
-
-- **[Linux Kernel Internals and Development (LFD420)](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)**  
-  The Linux Foundation | **August 17–20, 2026**  
-  Focus: Linux Kernel architecture, development, memory management, kernel modules, and debugging.
-
-- **[Security and the Linux Kernel (LFD441)](https://training.linuxfoundation.org/training/security-and-linux-kernel-lfd441/)**  
-  The Linux Foundation | **November 2–5, 2026**  
-  Focus: Linux Kernel security, system hardening, memory protection, Linux Security Modules, access control, and Secure Boot.
+## Current Technical Development
 
 - **Bachelor's Degree in Software Engineering**  
   Universidad Latina de Costa Rica | **In Progress**  
   Focus: **object-oriented programming, data structures, SOLID principles, design patterns, software architecture, and software development lifecycle (SDLC)**.
+
+- **[PyTorch Essentials: An Applications-First Approach (LFD273)](https://training.linuxfoundation.org/training/pytorch-essentials-an-applications-first-approach-lfd273/)**  
+  The Linux Foundation | **Currently Taking**  
+  Focus: **PyTorch model development, training and fine-tuning, data pipelines, transfer learning, computer vision and object detection, transformers/NLP, and model deployment**.  
+  Certification goal: **[PyTorch Certified Associate (PTCA)](https://training.linuxfoundation.org/certification/pytorch-certified-associate-ptca/)** — building toward validated skills in **PyTorch fundamentals, model development, data handling, and performance optimization**.
+
+- **[Linux Kernel Internals and Development (LFD420)](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)**  
+  The Linux Foundation | **August 17–20, 2026**  
+  Focus: **Linux kernel architecture, development, memory management, kernel modules, and debugging**.
+
+- **[Security and the Linux Kernel (LFD441)](https://training.linuxfoundation.org/training/security-and-linux-kernel-lfd441/)**  
+  The Linux Foundation | **November 2–5, 2026**  
+  Focus: **Linux kernel security, system hardening, memory protection, Linux Security Modules, access control, and Secure Boot**.
+  
 
 ## Profesional portafolio:
 
@@ -36,4 +42,4 @@ I am preparing for advanced engineering roles by growing my skills in software a
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/djcerdas)
+[LinkedIn: David J. Cerdas](https://www.linkedin.com/in/djcerdas)
