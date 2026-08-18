@@ -22,11 +22,11 @@ I am preparing for advanced engineering roles by growing my skills in software a
   Certification goal: **[PyTorch Certified Associate (PTCA)](https://training.linuxfoundation.org/certification/pytorch-certified-associate-ptca/)** — building toward validated skills in **PyTorch fundamentals, model development, data handling, and performance optimization**.
 
 - **[Linux Kernel Internals and Development (LFD420)](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)**  
-  The Linux Foundation | **August 17–20, 2026**  
+  The Linux Foundation | Enrolled to start on **August 17–20, 2026**  
   Focus: **Linux kernel architecture, development, memory management, kernel modules, and debugging**.
 
 - **[Security and the Linux Kernel (LFD441)](https://training.linuxfoundation.org/training/security-and-linux-kernel-lfd441/)**  
-  The Linux Foundation | **November 2–5, 2026**  
+  The Linux Foundation | Enrolled to start on **November 2–5, 2026**  
   Focus: **Linux kernel security, system hardening, memory protection, Linux Security Modules, access control, and Secure Boot**.
   
 
