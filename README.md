@@ -32,7 +32,7 @@ I am preparing for advanced engineering roles by growing my skills in software a
 
 ## Profesional portafolio:
 
-- **[AI Assistant](https://github.com/eng-djc/impaired_ai_assistant)** — Linux-based Edge AI project combining Python, computer vision, natural language processing - NLP, and embedded hardware.
+- **[AI Assistant for Impaired Persons](https://github.com/eng-djc/impaired_ai_assistant)** — Linux-based Edge AI project combining Python, computer vision, natural language processing - NLP, and embedded hardware.
 
 - **[Linux Systems Scripting](https://github.com/djcerdas/OS_Scripting)** — Linux Scritps for troubleshooting, monitoring, and automation.
 
